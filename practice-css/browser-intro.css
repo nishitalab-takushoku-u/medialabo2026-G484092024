@@ -40,4 +40,11 @@ div#zentai > div {
 	background-color: #ffefaf;
 	
 }
+div#zentai > div {
+    margin-left: 5px;
+    background-color: #ffefaf;
+    padding: 15px;           
+    box-sizing: border-box;   
+}
+
 
